@@ -1,5 +1,6 @@
 nginx
 kasmweb/nginx:1.25.3
 mysql
+openjdk
 xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
