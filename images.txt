@@ -1,5 +1,5 @@
 nginx
-kasmweb/nginx:1.25.4
+kasmweb/nginx
 mysql
 openjdk
 xhofe/alist:latest
